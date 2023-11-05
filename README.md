@@ -1,4 +1,5 @@
 # Built a Web application which calculates value of  base currency to any foreign currency.
+Fetching live data from exchangerate.host API
 
  1> Python, Scraping, APIs, requests() module   
  2> Fetching latest/ historical/ timeseries data      
